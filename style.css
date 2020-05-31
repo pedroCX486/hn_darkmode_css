@@ -4,7 +4,7 @@
 
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("news.ycombinator.com") {
- body {
+  body {
       background-color: #262626;
   }
   body > center > table, input, textarea {
