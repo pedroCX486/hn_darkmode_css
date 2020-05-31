@@ -2,10 +2,9 @@
 /* Replace with #6F6F6F for gray update arrow. */
 /* Replace with #FF6600 for orange upvote arrow. */
 
+@namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("news.ycombinator.com") {
-  @namespace url(http://www.w3.org/1999/xhtml);
-  /* Main body styling */
-  body {
+ body {
       background-color: #262626;
   }
   body > center > table, input, textarea {
